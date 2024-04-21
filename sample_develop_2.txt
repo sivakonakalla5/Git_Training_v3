@@ -1,6 +1,1 @@
-development fil
-aaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbb
-ccccccccccccccc
-ddddddddddddddd
-
+development file
